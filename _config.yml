@@ -2,6 +2,7 @@ name: lorenalonzo
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.8958273748867214
+title: Hello World
 cta:
   domain: null
   bucket: null
