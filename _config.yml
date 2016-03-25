@@ -1,7 +1,7 @@
 name: loren alonzo
 favicon: null
 layout_spectrum: 0.9956
-typography_spectrum: 0.49622
+typography_spectrum: 0.49874
 title: "A bikini competitor's fitness journey..."
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#c56c4c'
   brandStrength: 1
   lightness: 0.619595160940662
-  saturation: 0.27924211136996746
+  saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []
