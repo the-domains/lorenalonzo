@@ -1,7 +1,7 @@
-name: lorenalonzo
+name: loren alonzo
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.8958273748867214
+layout_spectrum: 0.9956
+typography_spectrum: 0.49622
 title: Hello World
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#a1c6d9'
     - '#68899a'
     - '#c56c4c'
-  brandStrength: 0.7102965046651661
+  brandStrength: 0.5
   lightness: 0.619595160940662
   saturation: 0.27924211136996746
   rhythmicContrast: 0.792649855138734
