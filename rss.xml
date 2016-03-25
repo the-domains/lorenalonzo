@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[lorenalonzo]]></title>
-        <description><![CDATA[lorenalonzo]]></description>
+        <title><![CDATA[Hello World]]></title>
+        <description><![CDATA[Hello World]]></description>
         <link>https://thegrid.ai/lorenalonzo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 18:07:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lorenalonzo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>
+It’s almost one week away from my second show and I thought I’d make a checking list to ensure I don’t forget anything like last time.  Some things to consider…</p>]]></description>
+            <link>https://thegrid.ai/lorenalonzo/its-almost-one-week-away-from-my-second-show-and-i-thought/index.html</link>
+            <guid isPermaLink="false">9dd6b24b-988c-4752-9e34-be6425b8d5d9</guid>
+            <pubDate>Fri, 25 Mar 2016 18:07:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello World!]]></title>
             <description><![CDATA[<article><h1>Hello World!</h1><p>Welcome to my page! My name is Loren and people know me as a piano/keyboard player. What most people don’t know is that I have a passion for health and fitness, love lifting heavy weights, and is obsessed with all things natural. Although I have been a musician for many years, my curiosity about fitness has always been in the back of my mind. I constantly find myself researching about healthy food, new workouts, and anything about wellness. I have tried many diets and have never missed a workout at the gym. Yet, I am still not satisfied with myself and how I feel. It’s not that I care only about looks but rather…I want to be stronger, confident, and feel beautiful (inside and out) just like those fitness models you see on the cover of Women’s Fitness and Oxygen Magazines.
