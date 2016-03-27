@@ -8,8 +8,8 @@ keywords: []
 description: |-
 
   It’s almost one week away from my second show and I thought I’d make a checking list to ensure I don’t forget anything like last time.  Some things to consider…
-datePublished: '2016-03-25T18:07:16.387Z'
-dateModified: '2016-03-25T18:07:09.816Z'
+datePublished: '2016-03-27T17:46:58.718Z'
+dateModified: '2016-03-27T17:45:30.354Z'
 title: ''
 author: []
 authors: []
