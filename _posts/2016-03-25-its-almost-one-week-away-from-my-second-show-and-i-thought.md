@@ -8,8 +8,8 @@ keywords: []
 description: |-
 
   It’s almost one week away from my second show and I thought I’d make a checking list to ensure I don’t forget anything like last time.  Some things to consider…
-datePublished: '2016-03-27T17:46:58.718Z'
-dateModified: '2016-03-27T17:45:30.354Z'
+datePublished: '2016-03-27T17:58:26.985Z'
+dateModified: '2016-03-27T17:47:04.075Z'
 title: ''
 author: []
 authors: []
@@ -24,6 +24,7 @@ url: its-almost-one-week-away-from-my-second-show-and-i-thought/index.html
 _type: Article
 
 ---
+Contest Packing List
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa1fe5fd-656f-4d53-8e60-8fd1b8382071.jpg)
 
 It's almost one week away from my second show and I thought I'd make a checking list to ensure I don't forget anything like last time. Some things to consider...
