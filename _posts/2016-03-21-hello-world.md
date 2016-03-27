@@ -1,9 +1,9 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: >
   Welcome to my page! My name is Loren and people know me as a piano/keyboard
@@ -26,8 +26,8 @@ description: >
   self-fulfillment and personal development through this process in hopes of
   empowering other individuals to be the best that they can be and to learn to
   love themselves.
-datePublished: '2016-03-25T17:50:16.587Z'
-dateModified: '2016-03-25T17:49:12.539Z'
+datePublished: '2016-03-27T17:43:07.322Z'
+dateModified: '2016-03-27T17:42:50.194Z'
 title: 'Hello World!'
 author: []
 sourcePath: _posts/2016-03-21-hello-world.md
